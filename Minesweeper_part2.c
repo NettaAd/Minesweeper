@@ -1,5 +1,5 @@
 // Project 1: Minesweepers part B
-// Netta Adani. ID: 206960338
+// Netta Adani. ID: 
 #include <stdio.h>      
 #include <stdlib.h>     
 #include <time.h>       
