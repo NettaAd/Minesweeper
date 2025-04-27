@@ -1,5 +1,5 @@
 // Project 1: Minesweepers part A
-// Netta Adani. ID: 206960338
+// Netta Adani. ID: 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>      // printf, scanf, NULL
 #include <stdlib.h>     // srand, rand 
